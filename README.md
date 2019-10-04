@@ -1,3 +1,3 @@
 # **Taháky**
 
-Zde v tomto repozitáři můžete nalézt mé taháky @octocat
+Zde v tomto repozitáři můžete nalézt mé taháky :shipit:
